@@ -5,10 +5,40 @@
   padding: 0.2em 0;
 }
 
-/* Space out content a bit */
+/* Space out content a bit
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+}*/
+
+body {
+  min-height: 2000px;
+  padding-top: 20px;
+}
+
+.fondo-main{
+  background-image: url(../images/fondo1.jpg);
+}
+
+.fondo1 {
+  margin-top: 70px;
+  height: 100%;
+  width: 100%;
+}
+
+.fondo2{
+ background-color: #000000;
+  opacity: 0.4;
+}
+
+.fondo3{
+  color: #000000;
+  opacity: 1;
+}
+
+.marco-contenido{
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
