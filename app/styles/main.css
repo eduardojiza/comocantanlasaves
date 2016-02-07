@@ -31,14 +31,8 @@ body {
   opacity: 0.4;
 }
 
-.fondo3{
-  color: #000000;
-  opacity: 1;
-}
-
-.marco-contenido{
-  margin-top: 100px;
-  margin-bottom: 100px;
+.espacio-sup{
+  margin-top: 70px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
